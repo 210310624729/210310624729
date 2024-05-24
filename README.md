@@ -26,13 +26,13 @@ I'm a third-year student at the National Institute of Technology Agartala and I'
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimbanerjeexrt&show_icons=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=210310624729&show_icons=true&count_private=true&theme=radical)
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimbanerjeexrt&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=210310624729&layout=compact&theme=radical)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashimbanerjeexrt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=210310624729&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!---
 ashimbanerjeexrt/ashimbanerjeexrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
